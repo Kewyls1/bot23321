@@ -1,0 +1,15 @@
+{
+    "prefix": "!",
+    "genChannel": "1275892320067391600",
+    "genCooldown": "000000",
+    "color": {
+        "green": "F0A404",
+        "yellow": "F0A404",
+        "red": "F0A404",
+        "default": "F0A404"
+    },
+    "command": {
+        "notfound_message": true,
+        "error_message": true
+    }
+}
